@@ -14,16 +14,23 @@ O principal objetivo é:
 
 Os exercícios estão organizados por linguagem e categoria, por exemplo:
 
-HackerRank/
-├── python/
-│ ├── warmup/
-│ ├── implementation/
-│ ├── strings/
-│ └── arrays/
-├── java/
-├── cpp/
-└── README.md
+Python:
+- HackerRank/Python/Warmup
+- HackerRank/Python/Implementation
+- HackerRank/Python/Strings
+- HackerRank/Python/Arrays
 
+Java:
+- HackerRank/Java/Warmup
+- HackerRank/Java/Implementation
+- HackerRank/Java/Strings
+- HackerRank/Java/Arrays
+
+C++:
+- HackerRank/Cpp/Warmup
+- HackerRank/Cpp/Implementation
+- HackerRank/Cpp/Strings
+- HackerRank/Cpp/Arrays
 
 - Cada arquivo contém a solução de um problema específico.
 - A organização por linguagem e categoria permite fácil navegação e manutenção.
